@@ -3,10 +3,10 @@
 ## Google Meet
 - [Please click this botten to learn](https://meet.google.com/ody-mkfo-mkb)
 
-## Cource
+## Course Topics(課程主題)
 
 - Intruduction to programming(Python)
-- Computer Operating System (OS)
+- Operating System (OS)
   - Windows 
   - Linux
 - computer network
