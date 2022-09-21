@@ -7,6 +7,7 @@
 
 - Intruduction to programming(Python)
   - use [google colab](https://colab.research.google.com/) 
+  - [sample codes](https://github.com/MyDearGreatTeacher/ComputerScience2022/blob/main/Python_code.md)
 - Operating System (OS)
   - Windows 
   - Linux
