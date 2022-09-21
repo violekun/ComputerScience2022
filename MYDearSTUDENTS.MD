@@ -127,8 +127,11 @@ GITHUB: https://github.com/mikla02
 
 
 ```
-
-
+Chinese Name: 保羅
+English Name: Kenneth Paul C. Beniga
+Nickname: KP
+Email: kenneth.beniga963@gmail.com
+Github: https://github.com/Kenth963
 ```
 
 
