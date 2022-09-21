@@ -46,12 +46,20 @@ Github: https://github.com/adlawansunshine02
 ```
 
 ```
-
+CHINESE NAME: 喬萬斯
+English Name: Joaquin Vasti R. Rapada
+nickname: Wax
+email: vastiplayer@gmail.com
+GITHUB: https://github.com/4110E34
 ```
 
 
 ```
-
+Chinese Name: 安伯思
+English Name: John Carlo Embase
+Nickname: CJ
+Email: carlmalate771@gmail.com
+Github: https://github.com/4110E215
 ```
 
 
