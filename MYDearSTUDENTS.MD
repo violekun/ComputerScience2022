@@ -14,3 +14,11 @@ nickname: Reyb
 email: villasraivegalvhineb@gmail.com
 GITHUB: https://github.com/reeeyyybb
 ```
+
+```
+Chinese Name: 艾麗藻
+English Name: Rizza Mae E. Nicomede
+Nickname: Rizza
+Email: tsrizzamae.09@gmail.com
+Github: https://github.com/Rizzamae09
+```
