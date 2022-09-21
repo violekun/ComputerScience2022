@@ -137,8 +137,11 @@ Github: https://github.com/Kenth963
 
 
 ```
-
-
+Chinese Name: 蘇伊凡
+English Name: Evan S. Marquez
+Nickname: SuYiFan
+Email: vnmarqz@gmail.com
+Github: https://github.com/Suyifann
 ```
 
 
