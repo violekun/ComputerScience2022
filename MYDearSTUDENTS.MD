@@ -127,7 +127,7 @@ GITHUB: https://github.com/mikla02
 
 
 ```
-Chinese Name: 保羅
+Chinese Name: 柯保羅
 English Name: Kenneth Paul C. Beniga
 Nickname: KP
 Email: kenneth.beniga963@gmail.com
@@ -146,75 +146,106 @@ Github: https://github.com/Suyifann
 
 
 ```
-
-
+CHINESE NAME: 安希佐
+English Name: Angela Mae E. Pologon
+nickname:  Gela
+email: angelamae.pologon@gmail.com
+GITHUB: https://github.com/Gela21
 ```
 
 
 
 ```
-
-
+CHINESE NAME: 朱艾瑞
+English Name: Julius Erick Saflor
+nickname:  jerick
+email: juliusericksaflor@gmail.com
+GITHUB: https://github.com/0001Player
 ```
 
 
 
 ```
-
-
+CHINESE NAME: 柯立丹
+English Name: John Oliver C. Sabio
+Nickname: RE
+email: oliversabiostudy@gmail.com
+GITHUB: https://github.com/OliverSabio
 ```
 
 
 ```
-
-
-```
-
-
-
-```
-
-
-```
-
-
-
-```
-
-
-```
-
-
-```
-
-
+CHINESE NAME:錢德羅
+English Name: Chandro S. Ermitanio
+nickname: Chan
+email: chandroermitanio95@gmail.com
+GITHUB: https://github.com/4110e216/cs2022.git
 ```
 
 
 
 ```
-
-
+CHINESE NAME: 雷利斯
+English name: Reese R Nacario 
+Email: reesenacario21@gmail.com
+GITHUN: https://github.com/reesenacario/reesenacario
 ```
 
 
 
 ```
-
-
+CHINESE NAME: 安吉琳
+English Name: Angelle Geolin Cari-at
+Nickname: Angel
+Email: cariatangelle@gmail.com
+GITHUB: https://github.com/4110e210/cs2022/blob/
 ```
 
 
 ```
-
-
+CHINESE NAME: 彭哈帕
+English Name: James Ryan H. Pregon
+Nickname: PengHaPa
+Email: jamesryanpregon@gmail.com
+GITHUB:https://github.com/PengHaPa/cs2022.git
 ```
 
 
 
 ```
+Chinese name : 蓋希娌
+English name : Glecyl Palotes
+Nickname: gly-7
+email : palotes.glecyl.c@gmail.com
+GITHUB: https://github.com/gly-7
+```
 
 
+
+```
+CHINESE NAME: 祈安娜
+English Name: Kyanah Lizeth C. Panganiban
+nickname: Yanah
+email: kyanahlizethpanganiban@gmail.com
+GITHUB: https://github.com/kyanah
+```
+
+
+```
+Chinese name: 珍古絲汀
+English name: Jovie Jean A. Garcia
+Nickname: Jovie
+Email: joviegarcia92@gmail.com
+GitHub: https://github.com/4110E238/cs2022.git
+```
+
+
+
+```
+CHINESE NAME: 雷利斯
+English Name: Reese R Nacario
+Email: reesenacario21@gmail.com
+GITHUB:https://github.com/reesenacario/cs2022.git
 ```
 
 
