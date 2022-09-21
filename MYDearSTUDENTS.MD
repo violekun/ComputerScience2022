@@ -196,7 +196,9 @@ CHINESE NAME: 柯立丹
 English Name: John Oliver C. Sabio
 Nickname: RE
 email: oliversabiostudy@gmail.com
-GITHUB: https://github.com/OliverSabio
+GITHUB: https://github.com/ReSabio/cs202209
+
+very good! 10++
 ```
 
 
@@ -206,6 +208,8 @@ English Name: Chandro S. Ermitanio
 nickname: Chan
 email: chandroermitanio95@gmail.com
 GITHUB: https://github.com/4110e216/cs2022.git
+
+good! 10+  you can write  some "XXX.md" to receive a very good! 10++ 
 ```
 
 
@@ -215,6 +219,8 @@ CHINESE NAME: 雷利斯
 English name: Reese R Nacario 
 Email: reesenacario21@gmail.com
 GITHUN: https://github.com/reesenacario/reesenacario
+
+good! 10+  you can write  some "XXX.md" to receive a very good! 10++ 
 ```
 
 
@@ -224,7 +230,9 @@ CHINESE NAME: 安吉琳
 English Name: Angelle Geolin Cari-at
 Nickname: Angel
 Email: cariatangelle@gmail.com
-GITHUB: https://github.com/4110e210/cs2022/blob/
+GITHUB: https://github.com/4110e210/cs2022/
+
+good! 10+  you can write  some "XXX.md" to receive a very good! 10++
 ```
 
 
@@ -234,6 +242,8 @@ English Name: James Ryan H. Pregon
 Nickname: PengHaPa
 Email: jamesryanpregon@gmail.com
 GITHUB:https://github.com/PengHaPa/cs2022.git
+
+good! 10+  you can write  some "XXX.md" to receive a very good! 10++
 ```
 
 
@@ -244,6 +254,8 @@ English name : Glecyl Palotes
 Nickname: gly-7
 email : palotes.glecyl.c@gmail.com
 GITHUB: https://github.com/gly-7
+
+good! 10+  you can write  some "XXX.md" to receive a very good! 10++
 ```
 
 
@@ -254,6 +266,8 @@ English Name: Kyanah Lizeth C. Panganiban
 nickname: Yanah
 email: kyanahlizethpanganiban@gmail.com
 GITHUB: https://github.com/kyanah
+
+good! 10+  you can write  some "XXX.md" to receive a very good! 10++
 ```
 
 
@@ -263,6 +277,8 @@ English name: Jovie Jean A. Garcia
 Nickname: Jovie
 Email: joviegarcia92@gmail.com
 GitHub: https://github.com/4110E238/cs2022.git
+
+good! 10+  you can write  some "XXX.md" to receive a very good! 10++
 ```
 
 
@@ -272,6 +288,8 @@ CHINESE NAME: 雷利斯
 English Name: Reese R Nacario
 Email: reesenacario21@gmail.com
 GITHUB:https://github.com/reesenacario/cs2022.git
+
+good! 10+  you can write  some "XXX.md" to receive a very good! 10++
 ```
 
 
@@ -283,6 +301,7 @@ nickname:  Marns
 email: Marknee720@gmail.com 
 GITHUB: https://github.com/marnsss
 
+good! 10+  you can write  some "XXX.md" to receive a very good! 10++
 ```
 
 
