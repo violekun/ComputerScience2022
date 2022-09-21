@@ -109,14 +109,20 @@ Github: https://github.com/gobernard22
 
 
 ```
-
-
+CHINESE NAME: 尤里卡
+English Name: Juricka S. Dela cuesta
+nickname: juju
+email: jurickad9@gmail.com 
+GITHUB: https://github.com/jurucka
 ```
 
 
 ```
-
-
+CHINESE NAME: 艾蜜卡
+English Name: Anna Meekyla P. Bassig
+Nickname: mika
+Email: miklabassig@gmail.com
+GITHUB: https://github.com/mikla02
 ```
 
 
