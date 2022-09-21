@@ -251,7 +251,11 @@ GITHUB:https://github.com/reesenacario/cs2022.git
 
 
 ```
-
+CHINESE NAME: 阿瑪霖
+English Name: Marnee A. Capangpangan 
+nickname:  Marns
+email: Marknee720@gmail.com 
+GITHUB: https://github.com/marnsss
 
 ```
 
