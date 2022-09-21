@@ -99,8 +99,11 @@ GITHUB: https://github.com/mjaypecjo
 ```
 
 ```
-
-
+Chinese Name: 伯纳德去
+English Name: Bernard Go
+Nickname: Bernard
+Email: gobernard22@gmail.com
+Github: https://github.com/gobernard22
 ```
 
 
