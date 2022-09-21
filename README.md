@@ -6,6 +6,7 @@
 ## Course Topics(課程主題)
 
 - Intruduction to programming(Python)
+  - use [google colab](https://colab.research.google.com/) 
 - Operating System (OS)
   - Windows 
   - Linux
