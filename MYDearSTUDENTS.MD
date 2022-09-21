@@ -64,7 +64,11 @@ Github: https://github.com/4110E215
 
 
 ```
-
+Chinese name: 菲利浦
+English Name : John Philip Requina Almonia
+Nickname : JP
+email: jpalmonia41600@gmail.com
+github: https://github.com/4110e239
 ```
 
 
