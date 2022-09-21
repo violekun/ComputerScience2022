@@ -6,6 +6,10 @@ nickname: DaDaLong
 email:
 GITHUB:https://github.com/MyDearGreatTeacher
 ```
+
+# If you don't receive a 10++, please do something to get one.
+- I will update comments for you next week!
+-
 # My Dear Students:
 ```
 CHINESE NAME: 高瑞夫
@@ -306,8 +310,13 @@ good! 10+  you can write  some "XXX.md" to receive a very good! 10++
 
 
 ```
+Chinese name : 卡納門  
+English name : Rina C. Branzuela 
+Nickname : rinnss 
+Email :rinabranzuela18@gmail.com  
+GITHUB : https://github.com/rinnss
 
-
+nothing seen??
 ```
 
 
