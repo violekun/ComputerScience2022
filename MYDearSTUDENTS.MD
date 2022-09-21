@@ -72,6 +72,8 @@ English Name: John Carlo Embase
 Nickname: CJ
 Email: carlmalate771@gmail.com
 Github: https://github.com/4110E215
+
+very good! 10++
 ```
 
 
@@ -81,6 +83,8 @@ English Name : John Philip Requina Almonia
 Nickname : JP
 email: jpalmonia41600@gmail.com
 github: https://github.com/4110e239
+
+good! 10+  you can write  some "XXX.md" to receive a very good! 10++ 
 ```
 
 
@@ -90,6 +94,8 @@ English Name: Mike Nino Manto
 nickname: Mike
 email: inigocorte10@gmail.com
 GITHUB: https://github.com/MikeManto
+
+10  you can write a "readme.md" and some "XXX.md" to receive a very good! 10++
 ```
 
 
@@ -99,6 +105,8 @@ English Name: Joana Marie T. Garcia
 nickname: Joana Marie
 email: joanamariegarcia317@gmail.com
 Github: https://github.com/4110e219
+
+very good! 10++
 ```
 
 
@@ -108,6 +116,8 @@ English Name: Mark Jay P. Pecjo
 nickname: MJ
 email: pecjay11@gmail.com
 GITHUB: https://github.com/mjaypecjo
+
+very good! 10++
 ```
 
 ```
@@ -116,6 +126,8 @@ English Name: Bernard Go
 Nickname: Bernard
 Email: gobernard22@gmail.com
 Github: https://github.com/gobernard22
+
+good! 10+  you can write  some "XXX.md" to receive a very good! 10++ 
 ```
 
 
@@ -126,6 +138,9 @@ English Name: Juricka S. Dela cuesta
 nickname: juju
 email: jurickad9@gmail.com 
 GITHUB: https://github.com/jurucka
+
+
+very good! 10++
 ```
 
 
@@ -135,6 +150,8 @@ English Name: Anna Meekyla P. Bassig
 Nickname: mika
 Email: miklabassig@gmail.com
 GITHUB: https://github.com/mikla02
+
+very good! 10++
 ```
 
 
@@ -144,16 +161,8 @@ English Name: Kenneth Paul C. Beniga
 Nickname: KP
 Email: kenneth.beniga963@gmail.com
 Github: https://github.com/Kenth963
-```
 
-
-
-```
-Chinese Name: 蘇伊凡
-English Name: Evan S. Marquez
-Nickname: SuYiFan
-Email: vnmarqz@gmail.com
-Github: https://github.com/Suyifann
+very good! 10++
 ```
 
 
@@ -163,6 +172,9 @@ English Name: Angela Mae E. Pologon
 nickname:  Gela
 email: angelamae.pologon@gmail.com
 GITHUB: https://github.com/Gela21
+
+9.9   please create a new repository naming "cs2022"
+      AND write a "readme.md" and some "XXX.md" to receive a very good! 10++
 ```
 
 
@@ -173,6 +185,8 @@ English Name: Julius Erick Saflor
 nickname:  jerick
 email: juliusericksaflor@gmail.com
 GITHUB: https://github.com/0001Player
+
+good! 10+  you can write  some "XXX.md" to receive a very good! 10++ 
 ```
 
 
