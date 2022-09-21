@@ -73,17 +73,167 @@ github: https://github.com/4110e239
 
 
 ```
+CHINESE NAME: 麥聖嬰
+English Name: Mike Nino Manto
+nickname: Mike
+email: inigocorte10@gmail.com
+GITHUB: https://github.com/MikeManto
+```
+
+
+```
+CHINESE NAME: :喬安蒂
+English Name: Joana Marie T. Garcia
+nickname: Joana Marie
+email: joanamariegarcia317@gmail.com
+Github: https://github.com/4110e219
+```
+
+
+```
+CHINESE NAME: 潘卡羅
+English Name: Mark Jay P. Pecjo
+nickname: MJ
+email: pecjay11@gmail.com
+GITHUB: https://github.com/mjaypecjo
+```
 
 ```
 
 
 ```
 
+
+
+```
+
+
 ```
 
 
 ```
 
+
 ```
+
+
+```
+
+
+```
+
+
+
+```
+
+
+```
+
+
+```
+
+
+```
+
+
+
+```
+
+
+```
+
+
+
+```
+
+
+```
+
+
+```
+
+
+```
+
+
+
+```
+
+
+```
+
+
+
+```
+
+
+```
+
+
+```
+
+
+```
+
+
+
+```
+
+
+```
+
+
+
+```
+
+
+```
+
+
+```
+
+
+```
+
+
+
+```
+
+
+```
+
+
+
+```
+
+
+```
+
+
+```
+
+
+```
+
+
+
+```
+
+
+```
+
+
+
+```
+
+
+```
+
+
+```
+
+
+```
+
 
 
