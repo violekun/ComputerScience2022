@@ -13,6 +13,8 @@ English Name: Raive Galvhine B. Villas
 nickname: Reyb
 email: villasraivegalvhineb@gmail.com
 GITHUB: https://github.com/reeeyyybb
+ 
+very good! 10++ 
 ```
 
 ```
@@ -21,6 +23,8 @@ English Name: Rizza Mae E. Nicomede
 Nickname: Rizza
 Email: tsrizzamae.09@gmail.com
 Github: https://github.com/Rizzamae09
+
+good! 10+  you can write some XXX.md to receive a very good! 10++ 
 ```
 
 ```
@@ -29,6 +33,8 @@ English name:Cheska Nicomedes
 Nickname:Cheska
 Email:cheescake0808@gmail.com 
 Github: https://github.com/24CheskaNicomedes
+
+10: please create a new repitory naming "cs2022"
 ```
 ```
 Chinese Name: 蘇伊凡
@@ -36,6 +42,8 @@ English Name: Evan S. Marquez
 Nickname: SuYiFan
 Email: vnmarqz@gmail.com
 Github: https://github.com/Suyifann
+
+very good! 10++ 
 ```
 ```
 Chinese Name: 艾晨阳
@@ -43,6 +51,8 @@ English Name: Sunshine A. Adlawan
 Nickname: Shine
 Email: adlawansunshine02@gmail.com
 Github: https://github.com/adlawansunshine02
+
+good! 10+  you can write some XXX.md to receive a very good! 10++ 
 ```
 
 ```
@@ -51,6 +61,8 @@ English Name: Joaquin Vasti R. Rapada
 nickname: Wax
 email: vastiplayer@gmail.com
 GITHUB: https://github.com/4110E34
+
+good! 10+  you can write a "readme.md" and some "XXX.md" to receive a very good! 10++ 
 ```
 
 
