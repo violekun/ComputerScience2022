@@ -22,3 +22,11 @@ Nickname: Rizza
 Email: tsrizzamae.09@gmail.com
 Github: https://github.com/Rizzamae09
 ```
+
+```
+Chinese name:艾綺絲
+English name:Cheska Nicomedes 
+Nickname:Cheska
+Email:cheescake0808@gmail.com 
+Github: https://github.com/24CheskaNicomedes
+```
