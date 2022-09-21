@@ -30,3 +30,48 @@ Nickname:Cheska
 Email:cheescake0808@gmail.com 
 Github: https://github.com/24CheskaNicomedes
 ```
+```
+Chinese Name: 蘇伊凡
+English Name: Evan S. Marquez
+Nickname: SuYiFan
+Email: vnmarqz@gmail.com
+Github: https://github.com/Suyifann
+```
+```
+Chinese Name: 艾晨阳
+English Name: Sunshine A. Adlawan
+Nickname: Shine
+Email: adlawansunshine02@gmail.com
+Github: https://github.com/adlawansunshine02
+```
+
+```
+
+```
+
+
+```
+
+```
+
+
+```
+
+```
+
+
+```
+
+```
+
+
+```
+
+```
+
+
+```
+
+```
+
+
