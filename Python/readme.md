@@ -13,9 +13,21 @@
   - What is Python?
   - Python Jobs
   - Why to Learn Python?
-  - Python Online Compiler/Interpreter
+  - Python Online `Interpreter`
   - GOOGLE COLAB
   - YOUR PYTHON CODE 
 - UPLOAD YOUR POWERPOINT TO YOUR GITHUB
 
 # EX2: INPUT AND OUTPUT
+```python
+
+
+def sum(a, b):
+    return (a + b)
+
+print("A888168 WORKS HARD")
+a = int(input('Enter 1st number: '))
+b = int(input('Enter 2nd number: '))
+
+print(f'Sum of {a} and {b} is {sum(a, b)}')
+```
