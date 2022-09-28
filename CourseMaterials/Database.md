@@ -31,6 +31,9 @@
 ```
 
 ```
+# Database security
+- events
+  - [Microsoft SQL servers hacked in TargetCompany ransomware attacks(September 24, 2022 )](https://www.bleepingcomputer.com/news/security/microsoft-sql-servers-hacked-in-targetcompany-ransomware-attacks/) 
 
 # reference
 - [sqlselect](https://www.1keydata.com/tw/sql/sqlselect.html)
