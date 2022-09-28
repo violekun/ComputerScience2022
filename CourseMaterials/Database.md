@@ -8,7 +8,7 @@
   - Redis 
   - MongoDB
 
-# relational model
+# Relational model
 - Edgar F. Codd’s relational model(1970)
   - "A Relational Model of Data for Large Shared Data Banks"
 - SQL was one of the first commercial languages to use Edgar F. Codd’s relational model. 
@@ -35,3 +35,4 @@
 # reference
 - [sqlselect](https://www.1keydata.com/tw/sql/sqlselect.html)
 - [最新 SQL 語法範例字典  朝井淳 著、陳亦苓、朱浚賢 譯  旗標科技](https://www.tenlong.com.tw/products/9789863124955?list_name=rd)
+- [最親切的 SQL 入門教室  矢沢久雄 著 許郁文 譯  碁峰資訊](https://www.tenlong.com.tw/products/9789865026004?list_name=srh)
