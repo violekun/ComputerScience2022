@@ -22,7 +22,7 @@
   - the "Customers" table in the Northwind sample database
 
 
-# [SQL(Structured Query Language)](https://en.wikipedia.org/wiki/SQL#:~:text=SQL%20(%2F%CB%8C%C9%9Bs%CB%8C,stream%20management%20system%20(RDSMS).)
+# [SQL(Structured Query Language)](https://en.wikipedia.org/wiki/SQL)
 - a data query language(DQL)
 - a data definition language(DDL)
 - a data control language(DCL)
