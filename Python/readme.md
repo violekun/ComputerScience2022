@@ -13,7 +13,7 @@
   - I will upload Lecture Videos@YOUTUBE Channel  by Oct 15
   - You need to `Upload your python code(xx.ipynb) to your GITHUB` by Oct 18
 - 1012:Python Data Type:List
-  - I need to attend a meeting today, so I pre-record this lecture and share it with you to watch as our `live` class
+  - I need to attend a meeting today, so I pre record this lecture and share it with you to watch as our `live` class
   - [online code sample](https://www.w3schools.com/python/python_lists.asp)
   - Lecture Videos@YOUTUBE Channel
     - [Python Lists]()
