@@ -16,7 +16,7 @@
   - I need to attend a meeting today, so I pre record this lecture and share it with you to watch as our `live` class
   - [online code sample](https://www.w3schools.com/python/python_lists.asp)
   - Lecture Videos@YOUTUBE Channel
-    - [Python Lists]()
+    - [Python Lists](https://youtu.be/3e-mggtl2IA)
     - [Basic List Operations]()
       - Access List Items
       - Change List Items
