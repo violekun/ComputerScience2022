@@ -16,6 +16,16 @@
   - I need to attend a meeting today, so I pre-record this lecture and share it with you to watch as our `live` class
   - [online code sample](https://www.w3schools.com/python/python_lists.asp)
   - Lecture Videos@YOUTUBE Channel
+    - [Python Lists]()
+    - [Basic List Operations]()
+      - Access List Items
+      - Change List Items
+      - Add List Items
+      - Remove List Items
+    - [Advanced Operations in Python Lists]() 
+      - Sort Lists
+      - Copy Lists
+      - Join Lists
     - [List Methods]() 
   - HOMEWORK: 
     - Please follow the topics and practice your python skill
