@@ -26,7 +26,7 @@
       - Sort Lists
       - Copy Lists
       - Join Lists
-    - [List Methods]() 
+    - [List Methods](https://youtu.be/4gKLFdAsWNk) 
       - [list.reverse() Method](https://www.w3schools.com/python/ref_list_reverse.asp)
       - [Official The Python Tutorial » 5. Data Structures](https://docs.python.org/3/tutorial/datastructures.html) 
       - [list.count(x)Method:Return the number of times x appears in the list.]()
