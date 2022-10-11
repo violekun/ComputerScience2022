@@ -27,10 +27,14 @@
       - Copy Lists
       - Join Lists
     - [List Methods]() 
+      - [list.reverse() Method](https://www.w3schools.com/python/ref_list_reverse.asp)
+      - [Official The Python Tutorial » 5. Data Structures](https://docs.python.org/3/tutorial/datastructures.html) 
+      - [list.count(x)Method:Return the number of times x appears in the list.]()
   - HOMEWORK: 
     - Please follow the topics and practice your python skill
     - Upload your python code(xx.ipynb) to your GITHUB
     - Test Yourself With Exercises [Python List Exercises](https://www.w3schools.com/python/python_lists_exercises.asp)
+    - [More Exercises](./1012_Exercises.md)
 - 1005:Python Data Type:Strings
 - 0928:INPUT AND OUTPUT
 - 0921:Google Colab + Sample_code
