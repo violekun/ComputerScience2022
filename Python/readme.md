@@ -7,7 +7,7 @@
 - [Please click this botten to learn](https://meet.google.com/ody-mkfo-mkb)
 
 # SYLLABUS
-- 1016-1018: Python Conditions and If statements
+- 1016-1018: Python Data Type:Dictionary
   - 補課:make up 0914 missed lessons
   - NO GOOGLE Meet
   - I will upload Lecture Videos@YOUTUBE Channel  by Oct 15
