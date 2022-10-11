@@ -17,7 +17,7 @@
   - [online code sample](https://www.w3schools.com/python/python_lists.asp)
   - Lecture Videos@YOUTUBE Channel
     - [Python Lists](https://youtu.be/3e-mggtl2IA)
-    - [Basic List Operations]()
+    - [Basic List Operations](https://youtu.be/356a48ncGBU)
       - Access List Items
       - Change List Items
       - Add List Items
