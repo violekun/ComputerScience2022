@@ -22,7 +22,7 @@
       - Change List Items
       - Add List Items
       - Remove List Items
-    - [Advanced Operations in Python Lists]() 
+    - [Advanced Operations in Python Lists](https://youtu.be/NuMVSuIx3E0) 
       - Sort Lists
       - Copy Lists
       - Join Lists
