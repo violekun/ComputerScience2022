@@ -12,6 +12,20 @@
   - NO GOOGLE Meet
   - I will upload Lecture Videos@YOUTUBE Channel  by Oct 15
   - You need to `Upload your python code(xx.ipynb) to your GITHUB` by Oct 18
+  - [online code sample](https://www.w3schools.com/python/python_dictionaries.asp)
+  - Lecture Videos@YOUTUBE Channel
+    - [Dictionary Methods]()
+    - [Basic Operations]()
+      - Access Items
+      - Change Items
+      - Add Items
+      - Remove Items
+    - [Advanced Operations in Python Dictionary]() 
+      - Copy a Python Dictionary
+        - what's wrong with dict2 = dict1?
+        - use the built-in Dictionary method `copy()`
+        - use the built-in Dictionary method `dict()` 
+    - [Dictionary Methods]()
 - 1012:Python Data Type:List
   - I need to attend a meeting today, so I pre record this lecture and share it with you to watch as our `live` class
   - [online code sample](https://www.w3schools.com/python/python_lists.asp)
