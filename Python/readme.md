@@ -45,7 +45,7 @@
         - Remove Nested Dictionary Items
           - Remove an Item by Key == > use `pop()` method 
           - use the del statement
-        - Remove Last Inserted Item 
+        - Remove Last Inserted Item  == > use `popitem()` method  == > return a `tuple`
     - [Dictionary Methods]()
       - Get All Keys, Values and Key:Value Pairs
         - There are three dictionary methods that return all of the dictionary’s keys, values and key-value pairs: keys(), values(), and items().  
