@@ -35,11 +35,16 @@
       - Nested Dictionaries:A dictionary can contain dictionaries
         - online code sample [Python Nested Dictionary](https://www.learnbyexample.org/python-nested-dictionary/)
         - Create a Nested Dictionary
+          - dict() Constructor
+          - use dict() function along with the zip() function
+          - The fromkeys() method  
         - Access Nested Dictionary Items
         - Change Nested Dictionary Items
         - Add or Update Nested Dictionary Items
-        - Merge Two Nested Dictionaries
+        - Merge Two Nested Dictionaries (be careful)
         - Remove Nested Dictionary Items
+          - Remove an Item by Key == > use `pop()` method 
+          - use the del statement
         - Remove Last Inserted Item 
     - [Dictionary Methods]()
       - Get All Keys, Values and Key:Value Pairs
