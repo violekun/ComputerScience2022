@@ -14,7 +14,7 @@
   - [online code sample](https://www.w3schools.com/python/python_dictionaries.asp)
   - Lecture Videos@YOUTUBE Channel
     - [Python Dictionary](https://youtu.be/YDU4mQkjG3c)
-    - [Basic Operations]()
+    - [Basic Operations](https://youtu.be/gfqbYEoAcJ4)
       - Access Items
         - dict1["name"]
         - dict1.get("name") 
