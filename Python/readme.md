@@ -25,8 +25,17 @@
         - use the built-in Dictionary method `copy()`
         - use the built-in Dictionary method `dict()` 
       - Nested Dictionaries:A dictionary can contain dictionaries
-        - [Python Nested Dictionary](https://www.programiz.com/python-programming/nested-dictionary) 
+        - online code sample [Python Nested Dictionary](https://www.learnbyexample.org/python-nested-dictionary/)
+        - Create a Nested Dictionary
+        - Access Nested Dictionary Items
+        - Change Nested Dictionary Items
+        - Add or Update Nested Dictionary Items
+        - Merge Two Nested Dictionaries
+        - Remove Nested Dictionary Items
+        - Remove Last Inserted Item 
     - [Dictionary Methods]()
+      - Get All Keys, Values and Key:Value Pairs
+        - There are three dictionary methods that return all of the dictionary’s keys, values and key-value pairs: keys(), values(), and items().  
  - HOMEWORK: 
     - Upload your python code(xx.ipynb) to your GITHUB by Oct 18(extend to 1021)
     - Test Yourself With Exercises [Python Dictionary Exercise](https://www.w3schools.com/python/exercise.asp?filename=exercise_dictionaries1)
