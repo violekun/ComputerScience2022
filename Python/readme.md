@@ -16,9 +16,15 @@
     - [Python Dictionary](https://youtu.be/YDU4mQkjG3c)
     - [Basic Operations]()
       - Access Items
+        - dict1["name"]
+        - dict1.get("name") 
       - Change Items
       - Add Items
       - Remove Items
+        - The `pop()` method removes the item with the specified key name
+        - The `popitem()` method removes the last inserted item
+        - The `del` keyword can also delete the dictionary completely
+        - The `clear()` method empties the dictionary 
     - [Advanced Operations in Python Dictionary]() 
       - Copy a Python Dictionary
         - what's wrong with dict2 = dict1?
