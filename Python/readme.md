@@ -7,11 +7,11 @@
 - [Please click this botten to learn](https://meet.google.com/ody-mkfo-mkb)
 
 # SYLLABUS
-- 1016-1018: Python Data Type:Dictionary
+- 1016-1018(extend to 1021): Python Data Type:Dictionary
   - 補課:make up 0914 missed lessons
   - NO GOOGLE Meet
-  - I will upload Lecture Videos@YOUTUBE Channel  by Oct 15
-  - You need to `Upload your python code(xx.ipynb) to your GITHUB` by Oct 18
+  - I will upload Lecture Videos@YOUTUBE Channel  by Oct 15(extend to 17)
+  - You need to `Upload your python code(xx.ipynb) to your GITHUB` by Oct 18(extend to 1021)
   - [online code sample](https://www.w3schools.com/python/python_dictionaries.asp)
   - Lecture Videos@YOUTUBE Channel
     - [Dictionary Methods]()
