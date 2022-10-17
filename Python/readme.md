@@ -49,7 +49,7 @@
     - [Dictionary Methods](https://youtu.be/dC70iNcWOEQ)
       - Get All Keys, Values and Key:Value Pairs
         - There are three dictionary methods that return all of the dictionary’s keys, values and key-value pairs: keys(), values(), and items().  
- - HOMEWORK: 
+  - HOMEWORK: 
     - Upload your python code(xx.ipynb) to your GITHUB by Oct 18(extend to 1021)
     - Test Yourself With Exercises [Python Dictionary Exercise](https://www.w3schools.com/python/exercise.asp?filename=exercise_dictionaries1)
 - 1012:Python Data Type:List
