@@ -13,7 +13,7 @@
   - I will upload Lecture Videos@YOUTUBE Channel  by Oct 15(extend to 17)
   - [online code sample](https://www.w3schools.com/python/python_dictionaries.asp)
   - Lecture Videos@YOUTUBE Channel
-    - [Dictionary Methods]()
+    - [Python Dictionary](https://youtu.be/YDU4mQkjG3c)
     - [Basic Operations]()
       - Access Items
       - Change Items
