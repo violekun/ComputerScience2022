@@ -11,7 +11,6 @@
   - 補課:make up 0914 missed lessons
   - NO GOOGLE Meet
   - I will upload Lecture Videos@YOUTUBE Channel  by Oct 15(extend to 17)
-  - You need to `Upload your python code(xx.ipynb) to your GITHUB` by Oct 18(extend to 1021)
   - [online code sample](https://www.w3schools.com/python/python_dictionaries.asp)
   - Lecture Videos@YOUTUBE Channel
     - [Dictionary Methods]()
@@ -28,6 +27,9 @@
       - Nested Dictionaries:A dictionary can contain dictionaries
         - [Python Nested Dictionary](https://www.programiz.com/python-programming/nested-dictionary) 
     - [Dictionary Methods]()
+ - HOMEWORK: 
+    - Upload your python code(xx.ipynb) to your GITHUB by Oct 18(extend to 1021)
+    - Test Yourself With Exercises [Python Dictionary Exercise](https://www.w3schools.com/python/exercise.asp?filename=exercise_dictionaries1)
 - 1012:Python Data Type:List
   - I need to attend a meeting today, so I pre record this lecture and share it with you to watch as our `live` class
   - [online code sample](https://www.w3schools.com/python/python_lists.asp)
