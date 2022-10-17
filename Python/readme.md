@@ -27,7 +27,7 @@
         - The `popitem()` method removes the last inserted item
         - The `del` keyword can also delete the dictionary completely
         - The `clear()` method empties the dictionary 
-    - [Advanced Operations in Python Dictionary]() 
+    - [Advanced Operations in Python Dictionary](https://youtu.be/DSUwZba7KUE) 
       - Copy a Python Dictionary
         - what's wrong with dict2 = dict1?
         - use the built-in Dictionary method `copy()`
