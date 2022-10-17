@@ -21,7 +21,9 @@
       - Change Items
       - Add Items
       - Remove Items
-        - The `pop()` method removes the item with the specified key name
+        - removes the item with the specified key name
+          - The `pop()` method 
+          - The `del` keyword
         - The `popitem()` method removes the last inserted item
         - The `del` keyword can also delete the dictionary completely
         - The `clear()` method empties the dictionary 
