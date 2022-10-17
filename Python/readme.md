@@ -25,6 +25,8 @@
         - what's wrong with dict2 = dict1?
         - use the built-in Dictionary method `copy()`
         - use the built-in Dictionary method `dict()` 
+      - Nested Dictionaries:A dictionary can contain dictionaries
+        - [Python Nested Dictionary](https://www.programiz.com/python-programming/nested-dictionary) 
     - [Dictionary Methods]()
 - 1012:Python Data Type:List
   - I need to attend a meeting today, so I pre record this lecture and share it with you to watch as our `live` class
