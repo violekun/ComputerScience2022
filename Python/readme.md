@@ -9,6 +9,11 @@
 # SYLLABUS
 - 1019:Python Conditions and If statements
   - [online code sample](https://www.w3schools.com/python/python_conditions.asp)
+  - logical conditions
+  - `If` statements
+  - indentation
+  - The `elif` keyword
+  - The `else` keyword
 - 1016-1018(extend to 1021): Python Data Type:Dictionary
   - 補課:make up 0914 missed lessons
   - NO GOOGLE Meet
