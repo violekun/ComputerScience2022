@@ -25,6 +25,7 @@
     - (a > b and c > a) or (a > b or a < b)
   - Nested If statement
   - The pass Statement
+  - [Test Yourself With Exercises](https://www.w3schools.com/python/exercise.asp?filename=exercise_ifelse1)
 - 1016-1018(extend to 1021): Python Data Type:Dictionary
   - 補課:make up 0914 missed lessons
   - NO GOOGLE Meet
