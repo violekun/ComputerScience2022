@@ -27,8 +27,9 @@
     - The pass Statement
     - [Test Yourself With Exercises](https://www.w3schools.com/python/exercise.asp?filename=exercise_ifelse1)
   - Second Talks: loop
-    - FOR loop
-    - while loop
+    - `for` loop [sample code](https://www.w3schools.com/python/python_for_loops.asp)
+      - use break Statement to leave loop
+    - `while` loop [sample code](https://www.w3schools.com/python/python_while_loops.asp)
     - no `do..while` loop  
 - 1016-1018(extend to 1021): Python Data Type:Dictionary
   - 補課:make up 0914 missed lessons
