@@ -13,7 +13,9 @@
   - `If` statements
   - indentation
   - The `elif` keyword
+    - if ... elif ...  
   - The `else` keyword
+    - if ... else ... 
 - 1016-1018(extend to 1021): Python Data Type:Dictionary
   - 補課:make up 0914 missed lessons
   - NO GOOGLE Meet
