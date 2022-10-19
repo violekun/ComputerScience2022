@@ -37,6 +37,8 @@
       - Nested Loops:There is a loop inside a loop 
     - `while` loop [sample code](https://www.w3schools.com/python/python_while_loops.asp)
     - no `do..while` loop  
+  - HOMEWORK: [quiz](./quiz_1019.ipynb)
+    - Upload your python code(xx.ipynb) to your GITHUB 
 - 1016-1018(extend to 1021): Python Data Type:Dictionary
   - 補課:make up 0914 missed lessons
   - NO GOOGLE Meet
