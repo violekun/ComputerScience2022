@@ -29,6 +29,11 @@
   - Second Talks: loop
     - `for` loop [sample code](https://www.w3schools.com/python/python_for_loops.asp)
       - use break Statement to leave loop
+      - use continue Statement to  stop the current iteration of the loop, and continue with the next
+      - The range() Function:
+        - range(10)
+        - range(1,10)
+        - range(1,10,2)  
     - `while` loop [sample code](https://www.w3schools.com/python/python_while_loops.asp)
     - no `do..while` loop  
 - 1016-1018(extend to 1021): Python Data Type:Dictionary
