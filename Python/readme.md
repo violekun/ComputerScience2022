@@ -34,6 +34,7 @@
         - range(10) ==> 0,1,2,3,4,5,6,7,8,9  == > 10 not inlcuded!!
         - range(1,10)==> 1,2,3,4,5,6,7,8,9 
         - range(1,10,2)  ==> 1,3,5,7,9 
+      - Nested Loops:There is a loop inside a loop 
     - `while` loop [sample code](https://www.w3schools.com/python/python_while_loops.asp)
     - no `do..while` loop  
 - 1016-1018(extend to 1021): Python Data Type:Dictionary
