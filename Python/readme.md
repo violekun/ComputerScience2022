@@ -17,6 +17,9 @@
   - The `else` keyword
     - if ... else ... 
   - Short Hand If == > One line if statement
+  - Short Hand If ... Else
+    - multiple else statements
+  - `a > b` and `c > a` 
 - 1016-1018(extend to 1021): Python Data Type:Dictionary
   - 補課:make up 0914 missed lessons
   - NO GOOGLE Meet
