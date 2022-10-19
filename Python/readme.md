@@ -23,6 +23,8 @@
     - `a > b` and `c > a` 
     - `a > b` or `c > a` 
     - (a > b and c > a) or (a > b or a < b)
+  - Nested If statement
+  - The pass Statement
 - 1016-1018(extend to 1021): Python Data Type:Dictionary
   - 補課:make up 0914 missed lessons
   - NO GOOGLE Meet
