@@ -7,6 +7,8 @@
 - [Please click this botten to learn](https://meet.google.com/ody-mkfo-mkb)
 - 1016-1018(extend to 1021):NO GOOGLE Meet for Python Data Type:Dictionary
 # SYLLABUS
+- 1019:Python Conditions and If statements
+  - [online code sample](https://www.w3schools.com/python/python_conditions.asp)
 - 1016-1018(extend to 1021): Python Data Type:Dictionary
   - 補課:make up 0914 missed lessons
   - NO GOOGLE Meet
