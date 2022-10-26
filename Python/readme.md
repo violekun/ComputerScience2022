@@ -14,7 +14,7 @@
     - [simple test](./1026.md)
     - Number of Arguments
   - arguments_1
-    - positional argument
+    - positional arguments
     - Keyword Arguments
   - arguments_2
     - Arbitrary Arguments, *args
