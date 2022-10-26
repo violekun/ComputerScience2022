@@ -9,6 +9,10 @@
 # SYLLABUS
 - 1026:Python Functions
   - [online code sample](https://www.w3schools.com/python/python_functions.asp)
+  - function definition and function call
+  - def keyword
+  - arguments
+    - positional argument
   - Recursion Function
   - [Python Lambda Function](https://www.w3schools.com/python/python_lambda.asp)
   - Python built-in Function
