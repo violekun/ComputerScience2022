@@ -10,7 +10,8 @@
 - 1026:Python Functions
   - [online code sample](https://www.w3schools.com/python/python_functions.asp)
   - function definition and function call
-  - def keyword
+  - def keyword and arguments
+  - [simple test](./1026.md)
   - arguments
     - positional argument
   - Recursion Function
