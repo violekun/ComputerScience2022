@@ -11,7 +11,8 @@
   - [online code sample](https://www.w3schools.com/python/python_functions.asp)
   - function definition and function call
   - def keyword and arguments
-  - [simple test](./1026.md)
+    - [simple test](./1026.md)
+    - Number of Arguments
   - arguments
     - positional argument
   - Recursion Function
