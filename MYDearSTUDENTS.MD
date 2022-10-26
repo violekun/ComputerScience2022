@@ -328,7 +328,14 @@ NICKNAME: Jasper
 EMAIL: cabeljasper@gmail.com
 GITHUB: https://github.com/JasphierCabel
 ```
-
+```
+CHINESE NAME:	歐跟莎
+ENGLISH NAME: Mary Cris O. Bonode
+STUDENT NUMBER: 4110E206
+NICKNAME: Mary4110E206
+EMAIL: marycrisbonode06@gmail.com
+GITHUB: https://github.com/4110E206/cs202209
+```
 
 
 ```
@@ -341,10 +348,7 @@ GITHUB: https://github.com/4110E205/cs2022.git
 ```
 
 
-```
 
-
-```
 
 
 
