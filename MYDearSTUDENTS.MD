@@ -327,14 +327,17 @@ ENGLISH NAME: Jasphier P. Cabel
 NICKNAME: Jasper
 EMAIL: cabeljasper@gmail.com
 GITHUB: https://github.com/JasphierCabel
-
 ```
 
 
 
 ```
-
-
+CHINESE NAME: 沈愛希
+ENGLISH NAME: Shane Ashly G. Birad
+STUDENT NUMBER: 4110E205
+NICKNAME: Shane 
+EMAIL: biradshane@gmail.com
+GITHUB: https://github.com/4110E205/cs2022.git
 ```
 
 
