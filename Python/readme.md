@@ -16,6 +16,7 @@
   - arguments_1
     - positional arguments
     - Keyword Arguments
+    - Default Parameter Value:Arguments with Default Parameter Value
   - arguments_2
     - Arbitrary Arguments, *args
   - Recursion Function
