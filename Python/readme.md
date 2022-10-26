@@ -13,8 +13,10 @@
   - def keyword and arguments
     - [simple test](./1026.md)
     - Number of Arguments
-  - arguments
+  - arguments_1
     - positional argument
+    - Keyword Arguments
+  - arguments_2
     - Arbitrary Arguments, *args
   - Recursion Function
   - [Python Lambda Function](https://www.w3schools.com/python/python_lambda.asp)
