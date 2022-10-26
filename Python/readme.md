@@ -17,9 +17,12 @@
     - positional arguments
     - Keyword Arguments
     - Default Parameter Value:Arguments with Default Parameter Value
-  - arguments_2
+  - arguments_2(as your exercises)
     - Arbitrary Arguments, *args
+    - Passing a List as an Argument
   - Recursion Function
+    - iterative as recursive
+    - [Example: f(n) = 1+2+3+....+n](./1026_2.md) 
   - [Python Lambda Function](https://www.w3schools.com/python/python_lambda.asp)
   - Python built-in Function
 - 1019:Python Conditions and If statements
