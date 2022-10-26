@@ -15,6 +15,7 @@
     - Number of Arguments
   - arguments
     - positional argument
+    - Arbitrary Arguments, *args
   - Recursion Function
   - [Python Lambda Function](https://www.w3schools.com/python/python_lambda.asp)
   - Python built-in Function
