@@ -9,7 +9,9 @@
 # SYLLABUS
 - 1026:Python Functions
   - [online code sample](https://www.w3schools.com/python/python_functions.asp)
-  - 
+  - Recursion Function
+  - [Python Lambda Function](https://www.w3schools.com/python/python_lambda.asp)
+  - Python built-in Function
 - 1019:Python Conditions and If statements
   - [online code sample](https://www.w3schools.com/python/python_conditions.asp)
   - FIRST TALK:logical conditions
