@@ -23,6 +23,8 @@
   - Recursion Function
     - iterative as recursive
     - [Example: f(n) = 1+2+3+....+n](./1026_2.md) 
+    - [exercise: Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_number)
+      - fib(7) =?
   - [Python Lambda Function](https://www.w3schools.com/python/python_lambda.asp)
   - Python built-in Function
 - 1019:Python Conditions and If statements
