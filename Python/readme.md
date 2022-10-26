@@ -7,6 +7,9 @@
 - [Please click this botten to learn](https://meet.google.com/ody-mkfo-mkb)
 - 1016-1018(extend to 1021):NO GOOGLE Meet for Python Data Type:Dictionary
 # SYLLABUS
+- 1026:Python Functions
+  - [online code sample](https://www.w3schools.com/python/python_functions.asp)
+  - 
 - 1019:Python Conditions and If statements
   - [online code sample](https://www.w3schools.com/python/python_conditions.asp)
   - FIRST TALK:logical conditions
