@@ -5,7 +5,7 @@
 
 ## Google Meet
 - [Please click this botten to learn](https://meet.google.com/ody-mkfo-mkb)
-- 1016-1018(extend to 1021):NO GOOGLE Meet for Python Data Type:Dictionary
+
 # SYLLABUS
 - 1109: Midterm exam
 - 1102: Test
