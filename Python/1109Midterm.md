@@ -49,6 +49,6 @@ gcd(18,48)  ==> gcd(48,18)
 gcd(x,0) ==> return x
 recurrence  function : 
   
-1.write a recursive function for f(n,m)
-2.write a iterative function for f(n,m)
+1.write a recursive function for gcd(n,m)
+2.write a iterative function for gcd(n,m)
 ```
