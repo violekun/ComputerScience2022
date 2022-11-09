@@ -4,7 +4,7 @@ f(n) = 1+2+3+....+(n-1)+n
      = f(n-1) + n
      
 termination: f(1) = 1
-recurrence  function : f(n) = f(n-1) + n
+recurrence  relation : f(n) = f(n-1) + n
 
 
 input: n
@@ -47,7 +47,7 @@ print(gcd(48,18))
 
 gcd(18,48)  ==> gcd(48,18)  
 gcd(x,0) ==> return x
-recurrence  function : 
+recurrence  relation  : 
   
 1.write a recursive function for gcd(n,m)
 2.write a iterative function for gcd(n,m)
