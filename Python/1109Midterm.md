@@ -1,6 +1,10 @@
 ## ex 1:
 ```
 f(n) = 1+2+3+....+(n-1)+n
+     = f(n-1) + n
+     
+termination: f(1) = 1
+recurrence  function : f(n) = f(n-1) + n
 
 
 input: n
@@ -38,8 +42,12 @@ gcd(48,18)
 = gcd(6,0)
 = 6
 
-output: f(n,m) 
-print(f(48,18))
+output: gcd(n,m) 
+print(gcd(48,18))
+
+gcd(18,48)  ==> gcd(48,18)  
+gcd(x,0) ==> return x
+recurrence  function : 
   
 1.write a recursive function for f(n,m)
 2.write a iterative function for f(n,m)
