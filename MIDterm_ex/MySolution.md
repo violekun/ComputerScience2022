@@ -16,3 +16,15 @@ Python can be used to handle big data and perform complex mathematics.
 Python can be used for rapid prototyping, or for production-ready software development.
 Why Python?
 ```
+
+### 2. 
+```
+Python uses __________ to indicate a block of code
+(A) [] (B){}  (C) ()  (D) indentation
+```
+
+- answer  https://www.w3schools.com/python/python_syntax.asp
+```
+Python uses indentation to indicate a block of code.
+```
+
