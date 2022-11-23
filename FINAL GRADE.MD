@@ -1,0 +1,8 @@
+### FINAL GRADE
+- MIDTERM EX: 30%
+- ATTENDANCE : 20%  == > 80,81,.......
+- REPORT:  20%  == > 80,81,.......
+  - VERSION 1:1123
+  - VERSION 2:1130
+  - ~200 PAGES 
+- FINAL EX: 30% 
